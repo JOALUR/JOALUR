@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-I'm Jose Uribe a student pursuing my Bachelor of Arts in Computer Science!
+I'm Jose Uribe, a Computer Science student at Florida International University (FIU)!
 
-- Most of my experience leans towards web development through hackathons, coursework, and two BUILD projects 
-hosted by INIT @fiu with (8-11 developers each).
-- Despite this I've become interested in AI and machine learning through coursework and constant use
--  I'm looking to use this and my web development skills in hopes of becoming a software or 
-full-stack developer.
+What I've done: 
+  - Most of my experience centers on full-stack web development through hackathons, coursework, and two INIT Build projects at FIU
+  - Including serving as a backend co-lead on an 11-member team
 
-- I find joy in watching shows, movies, sports, anime, and reading manga! I do love sports and have played volleyball.
+What I'm doing:
+  - Exploring AI and machine learning through coursework and hands-on projects
+
+Where I want to go:
+  - Looking to combine my web development foundation and growing interest in AI to become a software engineer or full-stack developer
+
+Beyond the screen:
+  - Big fan of anime, manga, movies, TV shows, and sports (especially volleyball)
+  - I'm a huge cat lover with a cat (scottish fold) and a dog (shih tzu)
